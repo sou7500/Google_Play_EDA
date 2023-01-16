@@ -1,7 +1,35 @@
-# Google_Play_EDA
+![1](https://user-images.githubusercontent.com/109259266/212710213-438e15bb-1ea9-409b-a798-1c3dc1a79c66.png)
+![2](https://user-images.githubusercontent.com/109259266/212710231-5031e1aa-2ff6-4095-8551-5733309b8573.png)
+![3](https://user-images.githubusercontent.com/109259266/212710249-8d5a6cb7-d01f-41ac-9c47-2250001c26e6.png)
+![4](https://user-images.githubusercontent.com/109259266/212710260-b91d0e91-88b4-451e-a88b-1f60f00da874.png)
+![5](https://user-images.githubusercontent.com/109259266/212710271-de1444a0-5a00-493b-a753-61af61c31078.png)
+![6](https://user-images.githubusercontent.com/109259266/212710285-9c8e9aa6-2730-4ecf-86b8-4f7132ccaff8.png)
+![7](https://user-images.githubusercontent.com/109259266/212710293-06b1a4ad-7ed2-4e80-a929-3835688fc8af.png)
+![8](https://user-images.githubusercontent.com/109259266/212710299-b61ae3f1-6799-4a0a-8a9c-5d0cc648df23.png)
+![9](https://user-images.githubusercontent.com/109259266/212710311-85040b5d-ac2a-4b48-aef3-ab12ca2c0376.png)
+![10](https://user-images.githubusercontent.com/109259266/212710322-fe0fc93c-0b0b-40bd-b2f2-600f6136cea3.png)
 
-Play store data analysed to review factors which are important to develop an app on.
+![12](https://user-images.githubusercontent.com/109259266/212710396-3be88375-7980-4dde-8154-6f2c40452aa6.png)
+![13](https://user-images.githubusercontent.com/109259266/212710410-47dba7cd-8601-4649-9c28-d83d6f44c365.png)
+![14](https://user-images.githubusercontent.com/109259266/212710420-c7b1746b-c12d-44bc-8dc4-c5bf3c26e44e.png)
+![15](https://user-images.githubusercontent.com/109259266/212710427-1dd16400-c184-48ed-bfd0-09461e8d4287.png)
+![16](https://user-images.githubusercontent.com/109259266/212710435-ec2f4ff5-6760-4e53-a0f3-1c65bbed4b39.png)
+![17](https://user-images.githubusercontent.com/109259266/212710440-65fe3dde-be14-44ce-b299-1ad4c727626d.png)
+![18](https://user-images.githubusercontent.com/109259266/212710444-d8226355-719c-428d-b5dc-a64941ff9447.png)
+![19](https://user-images.githubusercontent.com/109259266/212710448-3ce724a3-0444-46e7-b2e4-14a65ebda8fb.png)
+![20](https://user-images.githubusercontent.com/109259266/212712204-ebe27009-ac81-4ac2-a649-e6aaf2118e5f.png)
+![21](https://user-images.githubusercontent.com/109259266/212712219-2634bc7b-3e32-43b3-a009-385b91a747ec.png)
+![22](https://user-images.githubusercontent.com/109259266/212712228-e9e2c2b3-a692-4d65-a842-9d6d4d231b13.png)
+![23](https://user-images.githubusercontent.com/109259266/212712233-17657bdd-b490-4ebf-b17b-f0c10fcf4d1d.png)
+![24](https://user-images.githubusercontent.com/109259266/212712260-823bc5f2-ee39-4031-8a08-8950e3406944.png)
+![25](https://user-images.githubusercontent.com/109259266/212712418-f79e5544-6752-47c0-9190-f1e86a95ade7.png)
+![26](https://user-images.githubusercontent.com/109259266/212712437-368a700b-3228-44b5-b0a3-5daceb500979.png)
+![27](https://user-images.githubusercontent.com/109259266/212712451-f2361eda-4656-4ae3-9269-5d320bcbc5fc.png)
+![28](https://user-images.githubusercontent.com/109259266/212712463-408f488f-f48f-4d5e-9e70-d5382e56a8f5.png)
+![29](https://user-images.githubusercontent.com/109259266/212712473-6c5ab770-86e8-45b4-af74-7a46c62a64a1.png)
+![30](https://user-images.githubusercontent.com/109259266/212712490-d8e72a1d-d659-4d93-a290-ec2b1ecc8589.png)
+![31](https://user-images.githubusercontent.com/109259266/212712499-2dfbfd3a-9b2e-4b7b-bacc-66a994f430ba.png)
+![32](https://user-images.githubusercontent.com/109259266/212712506-8be40122-ec9b-485c-9fb2-da8475ae22c7.png)
+![33](https://user-images.githubusercontent.com/109259266/212712529-7e07b569-9eff-4d83-91b7-e4500ce8e1c0.png)
+![34](https://user-images.githubusercontent.com/109259266/212712548-39a5a799-cd97-4ba8-85fe-f6048eb5f459.png)
 
-We require to determine insights which can be used as characteristics of a successful app.
-
-Thus EDA is performed and concluded with insights which can be used by the stakeholders to decide the basis of their app.
