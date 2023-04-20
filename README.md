@@ -1,5 +1,6 @@
 # Google Play Exploratory Analysis.
 
+![Google_play_thumbnail](https://user-images.githubusercontent.com/109259266/233328487-d487aaa8-2add-49d1-8f07-81688eba378a.png)
 
 
 ![1](https://user-images.githubusercontent.com/109259266/212710213-438e15bb-1ea9-409b-a798-1c3dc1a79c66.png)
@@ -33,6 +34,7 @@
 ![29](https://user-images.githubusercontent.com/109259266/212712473-6c5ab770-86e8-45b4-af74-7a46c62a64a1.png)
 ![30](https://user-images.githubusercontent.com/109259266/212712490-d8e72a1d-d659-4d93-a290-ec2b1ecc8589.png)
 ![31](https://user-images.githubusercontent.com/109259266/212712499-2dfbfd3a-9b2e-4b7b-bacc-66a994f430ba.png)
+![Conclusion](https://user-images.githubusercontent.com/109259266/233331812-046b806e-4ec5-44ab-938d-b1faa11a98dc.png)
 ![32](https://user-images.githubusercontent.com/109259266/212712506-8be40122-ec9b-485c-9fb2-da8475ae22c7.png)
 ![33](https://user-images.githubusercontent.com/109259266/212712529-7e07b569-9eff-4d83-91b7-e4500ce8e1c0.png)
 ![35](https://user-images.githubusercontent.com/109259266/212713928-8fa8f72e-7c92-4805-bb8e-d1cf3f57cae8.png)
