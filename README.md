@@ -1,5 +1,3 @@
-# Google Play Exploratory Analysis.
-
 ![Google_play_thumbnail](https://user-images.githubusercontent.com/109259266/233328487-d487aaa8-2add-49d1-8f07-81688eba378a.png)
 
 # **SITUATION**
